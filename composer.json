@@ -1,0 +1,9 @@
+{
+    "nome" : " aplicativo-exemplo " ,
+    "exigir" : {
+        "cakephp/cakephp" : " 2.5.* "
+    },
+    "configuração" : {
+        "vendor-dir" : " Fornecedor/ "
+    }
+}
